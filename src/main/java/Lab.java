@@ -29,6 +29,7 @@ public class Lab {
      */
     public int getNthElementOfArray(int[] arr, int n){
         int nth = arr[n];
+        
         return nth;
     }
 
